@@ -2,10 +2,10 @@ body {
     margin: auto;
 }
 
-#vitamin{
-    background-color: #fdd58d;
-}
-
 #kepvitamin{
     float: right;
+}
+.vitamin {
+    margin: auto;
+    background-color: #fdd58d;
 }
