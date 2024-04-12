@@ -5,7 +5,26 @@ body {
 #kepvitamin{
     float: right;
 }
+
 .vitamin {
     margin: auto;
     background-color: #fdd58d;
 }
+
+h1{
+    color: #99D6EA;
+}
+
+p{
+    font-size: 20px;
+}
+
+.szoveg{
+    display: flex;
+
+}
+
+.szoveg img{
+    margin-right: 10px;
+}
+
