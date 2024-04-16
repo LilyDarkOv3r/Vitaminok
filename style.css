@@ -14,7 +14,7 @@ body {
     background-color: #365486;
 }
 
-h1{
+.cimszo{
     color: #7FC7D9;
 }
 
@@ -41,4 +41,16 @@ p{
 
 div{
     border-radius: 25px;
+}
+
+h1{
+   color: #0F1035; 
+}
+
+.card-text{
+    font-size: 16px;
+}
+
+.card{
+    margin: auto;
 }
